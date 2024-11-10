@@ -39,10 +39,6 @@
 
 ### Статистика
 <p align='center' ><img  src="https://github-profile-trophy.vercel.app/?username=alexeygamovwvs&column=4&margin-w=5&margin-h=5&theme=flat&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt='github  profile trophy' /> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexeygamovwvs&layout=donut&theme=nord&&hide_border=true" alt='programming languages stats' height='220'/></p>
-
-<div align="center">
-    
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alexeygamovwvs&theme=nord&mode=weekly)](https://git.io/streak-stats)
 <!--
 **AlexeyGamovWVS/AlexeyGamovWVS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
